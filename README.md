@@ -41,7 +41,7 @@ The solution is divided into two modules:
 1. **GAN Module** – Generates synthetic melanoma images using a DCGAN architecture.
 2. **Classifier Module** – Evaluates the impact of augmented data on various classifiers.
 
-![architecture](architecture.png) <!-- Replace with actual image path -->
+![architecture](ModelArchitecture.png) <!-- Replace with actual image path -->
 
 ---
 
